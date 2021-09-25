@@ -1,0 +1,10 @@
+body{
+   background-image: url(./sunset-vector-wallpaper.jpg); 
+   background-position:center;
+   background-repeat: no-repeat;
+   background-size: 300vh; 
+}
+
+a{
+    color: wheat;
+}
